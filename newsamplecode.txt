@@ -1,1 +1,1 @@
-file modified in branch harry.
+conflict resolved by removing conflicting content and adding this line.
